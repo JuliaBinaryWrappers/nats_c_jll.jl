@@ -1,0 +1,143 @@
+[[nats_c]]
+arch = "aarch64"
+git-tree-sha1 = "89e87ef74b29e83a0fdd60bd21465726d0abca63"
+os = "macos"
+
+    [[nats_c.download]]
+    sha256 = "6329aef575a3c1c8e2109ff1a816635d4a343a0abd805c41b1e10de079ac520b"
+    url = "https://github.com/JuliaBinaryWrappers/nats_c_jll.jl/releases/download/nats_c-v3.6.1+0/nats_c.v3.6.1.aarch64-apple-darwin.tar.gz"
+[[nats_c]]
+arch = "aarch64"
+git-tree-sha1 = "89c0fdce8d6e5536f2285dffe0ee21b29d440eb6"
+libc = "glibc"
+os = "linux"
+
+    [[nats_c.download]]
+    sha256 = "c8f27c984038e0a800cdae2aadaaea814881dadcb1384fc92737a71ef18b08b2"
+    url = "https://github.com/JuliaBinaryWrappers/nats_c_jll.jl/releases/download/nats_c-v3.6.1+0/nats_c.v3.6.1.aarch64-linux-gnu.tar.gz"
+[[nats_c]]
+arch = "aarch64"
+git-tree-sha1 = "f29d6e2d0d79f4a62c44cf4f82e500a7b4ce1068"
+libc = "musl"
+os = "linux"
+
+    [[nats_c.download]]
+    sha256 = "b01672684a368a897f7eb828f2a9380279ae1a3d31e8f59fa605b32fd12a508c"
+    url = "https://github.com/JuliaBinaryWrappers/nats_c_jll.jl/releases/download/nats_c-v3.6.1+0/nats_c.v3.6.1.aarch64-linux-musl.tar.gz"
+[[nats_c]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "8bd006f2301d7c07fe09e1fce5f05d317126586a"
+libc = "glibc"
+os = "linux"
+
+    [[nats_c.download]]
+    sha256 = "d29153e3fc5320cb3cf1ff8a28b569173cbd0122b802beb7acbaad339dd67809"
+    url = "https://github.com/JuliaBinaryWrappers/nats_c_jll.jl/releases/download/nats_c-v3.6.1+0/nats_c.v3.6.1.armv6l-linux-gnueabihf.tar.gz"
+[[nats_c]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "c8f8b0ef18fa3e8f4edff9d647289f1ad15c5ae6"
+libc = "musl"
+os = "linux"
+
+    [[nats_c.download]]
+    sha256 = "b4c0eb7a3231f07312d92bca5d561ff0693738fd2b5523ea938cc34cda32d12b"
+    url = "https://github.com/JuliaBinaryWrappers/nats_c_jll.jl/releases/download/nats_c-v3.6.1+0/nats_c.v3.6.1.armv6l-linux-musleabihf.tar.gz"
+[[nats_c]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "19317576caa6d7124452aae6784b7d60fd9cec70"
+libc = "glibc"
+os = "linux"
+
+    [[nats_c.download]]
+    sha256 = "0065d22b92e7bb73d43331d7ce40357d5b7d4729386470ae8b3f70ce01c8095a"
+    url = "https://github.com/JuliaBinaryWrappers/nats_c_jll.jl/releases/download/nats_c-v3.6.1+0/nats_c.v3.6.1.armv7l-linux-gnueabihf.tar.gz"
+[[nats_c]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "c430e2605f2fa93748a6c7e46ff9677f3cd239e5"
+libc = "musl"
+os = "linux"
+
+    [[nats_c.download]]
+    sha256 = "b678f4717bcf4b1192a9cb7778c92ba1e86a06d308829458a254a7528fb54dc2"
+    url = "https://github.com/JuliaBinaryWrappers/nats_c_jll.jl/releases/download/nats_c-v3.6.1+0/nats_c.v3.6.1.armv7l-linux-musleabihf.tar.gz"
+[[nats_c]]
+arch = "i686"
+git-tree-sha1 = "63b193265a5efcc18daece8344559ecd2dc1c361"
+libc = "glibc"
+os = "linux"
+
+    [[nats_c.download]]
+    sha256 = "ccaafe67762c1aa22b2ced35b0533ba279d6a437d3a8857e385449f6225b4dfa"
+    url = "https://github.com/JuliaBinaryWrappers/nats_c_jll.jl/releases/download/nats_c-v3.6.1+0/nats_c.v3.6.1.i686-linux-gnu.tar.gz"
+[[nats_c]]
+arch = "i686"
+git-tree-sha1 = "8c0c23b3a8e5d93435cf3f3903754cde99affca1"
+libc = "musl"
+os = "linux"
+
+    [[nats_c.download]]
+    sha256 = "9877fde9348097a8467f41f1c842322f4a836866a1f552fe47232c618f475550"
+    url = "https://github.com/JuliaBinaryWrappers/nats_c_jll.jl/releases/download/nats_c-v3.6.1+0/nats_c.v3.6.1.i686-linux-musl.tar.gz"
+[[nats_c]]
+arch = "i686"
+git-tree-sha1 = "bc26de76bab0a2cb63b05672bbebe7f18c96036e"
+os = "windows"
+
+    [[nats_c.download]]
+    sha256 = "952935a91f9ad2f0754ad76163f86600e656a39196cd50bd398454fd5477acae"
+    url = "https://github.com/JuliaBinaryWrappers/nats_c_jll.jl/releases/download/nats_c-v3.6.1+0/nats_c.v3.6.1.i686-w64-mingw32.tar.gz"
+[[nats_c]]
+arch = "powerpc64le"
+git-tree-sha1 = "a83f163dfda1238fe9de19c513770480073200a8"
+libc = "glibc"
+os = "linux"
+
+    [[nats_c.download]]
+    sha256 = "1d08f68dbc99780086409484b46c233c3c87daffd02de2874d184d22a170f798"
+    url = "https://github.com/JuliaBinaryWrappers/nats_c_jll.jl/releases/download/nats_c-v3.6.1+0/nats_c.v3.6.1.powerpc64le-linux-gnu.tar.gz"
+[[nats_c]]
+arch = "x86_64"
+git-tree-sha1 = "ee5a0dbe9eca5799928be67e1dde9c05b50024d7"
+os = "macos"
+
+    [[nats_c.download]]
+    sha256 = "6e129bba167e73de0ea1d7c0f5a2f6ec7ed6cdb23a6b84224cad8088d2127a18"
+    url = "https://github.com/JuliaBinaryWrappers/nats_c_jll.jl/releases/download/nats_c-v3.6.1+0/nats_c.v3.6.1.x86_64-apple-darwin.tar.gz"
+[[nats_c]]
+arch = "x86_64"
+git-tree-sha1 = "c3351fca5b43c5cea55f7d9d1690b5098ca2aaa5"
+libc = "glibc"
+os = "linux"
+
+    [[nats_c.download]]
+    sha256 = "6ad93461d98fbf0f7517ed5220a7c8e77bd63d1fd48301f48e4e16c35ccc8656"
+    url = "https://github.com/JuliaBinaryWrappers/nats_c_jll.jl/releases/download/nats_c-v3.6.1+0/nats_c.v3.6.1.x86_64-linux-gnu.tar.gz"
+[[nats_c]]
+arch = "x86_64"
+git-tree-sha1 = "1c7cf78065ae3c6cc552170bae8b9510ad3c64ab"
+libc = "musl"
+os = "linux"
+
+    [[nats_c.download]]
+    sha256 = "290413e2b988d6ae1569a4feb9f04c8c68ef6f6525d719d27b0d0105ee91d0f6"
+    url = "https://github.com/JuliaBinaryWrappers/nats_c_jll.jl/releases/download/nats_c-v3.6.1+0/nats_c.v3.6.1.x86_64-linux-musl.tar.gz"
+[[nats_c]]
+arch = "x86_64"
+git-tree-sha1 = "fef65cc7ccb820158385e0429fda0562721a608b"
+os = "freebsd"
+
+    [[nats_c.download]]
+    sha256 = "2926a3929455a847bb10c42ef19bcf0245477186e1e351817100bc36b1870b6e"
+    url = "https://github.com/JuliaBinaryWrappers/nats_c_jll.jl/releases/download/nats_c-v3.6.1+0/nats_c.v3.6.1.x86_64-unknown-freebsd.tar.gz"
+[[nats_c]]
+arch = "x86_64"
+git-tree-sha1 = "b1f9f93c19ed1febb107c6862e7bb7e5d7975645"
+os = "windows"
+
+    [[nats_c.download]]
+    sha256 = "6005f14032ace07d6243ccd8414bd5432032b01193be01bff3bdbb0fbe5c1e20"
+    url = "https://github.com/JuliaBinaryWrappers/nats_c_jll.jl/releases/download/nats_c-v3.6.1+0/nats_c.v3.6.1.x86_64-w64-mingw32.tar.gz"
